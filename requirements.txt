@@ -1,0 +1,3 @@
+# Root requirements to satisfy Railway/Nixpacks detection.
+# Delegates to backend/requirements.txt so you don't duplicate deps.
+-r backend/requirements.txt

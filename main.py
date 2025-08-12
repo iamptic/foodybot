@@ -1,2 +1,2 @@
-# root/main.py — shim that exposes the FastAPI app from backend/main.py
+# root/main.py — shim к реальному приложению
 from backend.main import app
